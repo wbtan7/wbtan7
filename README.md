@@ -1,8 +1,10 @@
 # Hi, I'm Wei Been 👋
 
-**Software Engineer · Production AI Systems**
+**Software Engineer & Data Scientist · Production AI Systems**
 
 I build software where AI meets real-world products. My work spans full-stack development, cloud infrastructure, and the less glamorous—but essential—parts of production engineering: reliability, performance, security, and observability.
+
+Before focusing on software engineering, I spent **three years working as a Data Scientist**. That background shapes how I approach model-powered products: understand the data, validate assumptions, and measure what actually improves in production.
 
 I currently work on software supporting **AI-assisted echocardiography**, connecting clinical workflows with dependable applications and services.
 
