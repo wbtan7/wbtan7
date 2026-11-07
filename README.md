@@ -1,27 +1,39 @@
-# Hi, I'm Wei Been 👋
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Wei Been — Software Engineer and Data Scientist. From data to dependable AI systems." width="100%" />
+</p>
 
-**Software Engineer & Data Scientist · Production AI Systems**
+### About me
 
-I build software where AI meets real-world products. My work spans full-stack development, cloud infrastructure, and the less glamorous—but essential—parts of production engineering: reliability, performance, security, and observability.
+I build and operate software where **AI meets real-world products**. My background spans **three years in data science** and hands-on full-stack engineering, with a focus on turning model-powered ideas into reliable production systems.
 
-Before focusing on software engineering, I spent **three years working as a Data Scientist**. That background shapes how I approach model-powered products: understand the data, validate assumptions, and measure what actually improves in production.
+I work on software supporting **AI-assisted echocardiography**, connecting clinical workflows with dependable applications and services. I care about the whole journey: from understanding data and validating assumptions to shipping, measuring, and maintaining the system.
 
-I currently work on software supporting **AI-assisted echocardiography**, connecting clinical workflows with dependable applications and services.
+### From data to production
 
-### What I focus on
+| 01 · Understand | 02 · Build | 03 · Operate |
+| :--- | :--- | :--- |
+| Data analysis, modeling, validation | APIs, web applications, integrations | Cloud, observability, performance, reliability |
+| **Is it useful and correct?** | **Can people use it?** | **Will it keep working?** |
 
-- **Full-stack engineering:** building maintainable frontends and APIs, from Angular and TypeScript to Python and FastAPI.
-- **Production reliability:** authentication, cloud infrastructure, observability, safe migrations, and performance profiling.
-- **AI deployment:** making model-powered systems faster, more reliable, and easier to operate—not just getting a model to run.
+### What I work with
 
-### Tools I work with
+**Applications** · Python · FastAPI · Django · TypeScript · Angular  
+**Data & infrastructure** · MongoDB · Redis · AWS · Docker · Terraform  
+**Observability** · OpenTelemetry · SigNoz
 
-**Languages & frameworks:** Python · TypeScript · FastAPI · Django · Angular  
-**Data & infrastructure:** MongoDB · Redis · AWS · Docker · Terraform  
-**Observability:** OpenTelemetry · SigNoz
+### My engineering approach
 
-### How I like to build
+> Measure before optimizing. Make changes reviewable. Think about failure modes. Prefer evidence over intuition.
 
-Measure before optimizing. Prefer small, reviewable changes. Think about the failure modes. Use evidence—not just intuition—to decide whether a change actually improved the system.
+- **Full-stack engineering:** designing maintainable interfaces, APIs, and workflows.
+- **Production reliability:** safer migrations, authentication, tracing, and performance profiling.
+- **AI systems:** improving the deployment and operation of model-powered products.
 
-I'm especially interested in **ML inference optimization, software performance, and reliable AI systems in production**.
+<details>
+<summary><strong>Currently exploring</strong></summary>
+
+- Efficient ML inference and serving
+- Performance benchmarking and optimization
+- Reliable, observable AI applications
+
+</details>
