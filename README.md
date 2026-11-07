@@ -18,6 +18,13 @@ I currently work on software supporting **AI-assisted echocardiography**, connec
 
 ### Tools I work with
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
 **Languages & frameworks:** Python · TypeScript · FastAPI · Django · Angular  
 **Data & infrastructure:** MongoDB · Redis · AWS · Docker · Terraform  
 **Observability:** OpenTelemetry · SigNoz
